@@ -82,4 +82,17 @@ This repository documents my Python learning journey, including assignments, pro
   - Calculating Body Mass Index (BMI)
   - Using functions to perform calculations
   - Displaying formatted results
+### 12.Survey Feedback Analyzer
+
+- Preloading survey feedback data using a dictionary of lists
+- Accepting additional feedback entries from users
+- Automatically generating serial numbers
+- Cleaning text by removing punctuation and extra spaces
+- Converting feedback text to lowercase
+- Counting feedback entries containing a specific word
+- Calculating the average rating
+- Finding the longest feedback comment by word count
+- Identifying unique words across all feedback entries
+- Sorting feedback entries by rating using zip() and sorted()
+- Applying loops, conditional statements, string methods, and user-defined functions to analyze survey data
 
